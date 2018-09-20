@@ -1,0 +1,31 @@
+_repo: Cynthia-Steps-Out_53197
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Berry, Erick
+    aliases:
+    - Best, Allena Champlin
+    - Maxon, Anne
+    - Best, Evangel Allena Champlin
+    birthdate: 1892
+    deathdate: 1974
+    gutenberg_agent_id: '47258'
+    url: http://www.gutenberg.org/2009/agents/47258
+description: ''
+gutenberg_issued: '2016-10-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53197'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Voyages and travels -- Juvenile fiction'
+- !lcsh 'France -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Artists -- Juvenile fiction'
+- !lcsh 'Young women -- Juvenile fiction'
+- GITenberg
+title: Cynthia Steps Out
+url: http://www.gutenberg.org/ebooks/53197
